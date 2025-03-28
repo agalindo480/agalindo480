@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**agalindo480/agalindo480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... contactgalindo@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i love math
--->
